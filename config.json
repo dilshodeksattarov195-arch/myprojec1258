@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterferify",
+        "uuid": 432752,
+        "checksum": "9lpydi"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
